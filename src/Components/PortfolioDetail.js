@@ -93,7 +93,7 @@ const ForbiddenBox = styled.div`
   width: 20%;
   height: 80%;
   border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: transparent;
   opacity: 0;
   transition: all 0.4s ease;
 `;
