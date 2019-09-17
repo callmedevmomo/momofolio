@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/momofolio/static/js/main.4bb235eb.chunk.js",
+    "main.js.map": "/momofolio/static/js/main.4bb235eb.chunk.js.map",
+    "runtime~main.js": "/momofolio/static/js/runtime~main.b5e4d2db.js",
+    "runtime~main.js.map": "/momofolio/static/js/runtime~main.b5e4d2db.js.map",
+    "static/js/2.ebc2ea0a.chunk.js": "/momofolio/static/js/2.ebc2ea0a.chunk.js",
+    "static/js/2.ebc2ea0a.chunk.js.map": "/momofolio/static/js/2.ebc2ea0a.chunk.js.map",
+    "index.html": "/momofolio/index.html",
+    "precache-manifest.5c9fb6180f72f67a5ebc4be920ecb7f0.js": "/momofolio/precache-manifest.5c9fb6180f72f67a5ebc4be920ecb7f0.js",
+    "service-worker.js": "/momofolio/service-worker.js",
+    "static/media/airbnb.png": "/momofolio/static/media/airbnb.351a3770.png",
+    "static/media/backup.jpg": "/momofolio/static/media/backup.58044a97.jpg",
+    "static/media/basiccss.png": "/momofolio/static/media/basiccss.7dcf63b0.png",
+    "static/media/coinexplorer.png": "/momofolio/static/media/coinexplorer.07dc4c95.png",
+    "static/media/contact.jpg": "/momofolio/static/media/contact.7222766b.jpg",
+    "static/media/darkcode.mov": "/momofolio/static/media/darkcode.7e141ef6.mov",
+    "static/media/detail.mov": "/momofolio/static/media/detail.344b12a7.mov",
+    "static/media/graphql.png": "/momofolio/static/media/graphql.607fb050.png",
+    "static/media/instagram.png": "/momofolio/static/media/instagram.f62e3bcb.png",
+    "static/media/kakaoclone.png": "/momofolio/static/media/kakaoclone.3110d1c7.png",
+    "static/media/me.jpg": "/momofolio/static/media/me.85766c94.jpg",
+    "static/media/momentum1.png": "/momofolio/static/media/momentum1.c1fe97af.png",
+    "static/media/netflix.png": "/momofolio/static/media/netflix.40feb586.png",
+    "static/media/paintjs.png": "/momofolio/static/media/paintjs.df2663ca.png",
+    "static/media/portfoliobg.mov": "/momofolio/static/media/portfoliobg.e761cfdb.mov",
+    "static/media/reactnative.png": "/momofolio/static/media/reactnative.3d91141a.png",
+    "static/media/typescript.png": "/momofolio/static/media/typescript.4b023824.png",
+    "static/media/youtube.png": "/momofolio/static/media/youtube.68f54646.png"
+  }
+}
