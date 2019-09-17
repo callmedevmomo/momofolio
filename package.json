@@ -25,7 +25,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://callmedevmomo.github.io/momofolio",
+  "homepage": "https://inspiring-lamarr-1b8c2c.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",
