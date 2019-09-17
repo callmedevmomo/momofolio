@@ -71,6 +71,7 @@ const WEBMSG = styled.div`
   width: 150px;
   height: 70px;
   background-color: black;
+  transform: translate(-35px, -35px);
   -webkit-box-shadow: #fff 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px,
     red 0 -18px 40px, 2px 0px 30px 14px rgba(255, 93, 16, 0);
   box-shadow: #fff 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px,
