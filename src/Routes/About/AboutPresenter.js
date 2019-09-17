@@ -88,9 +88,10 @@ const TxtBox = styled.div`
   font-weight: bolder;
 `;
 
-const AboutPresenter = () => (
+const AboutPresenter = ({ image, loading }) => (
   <Container>
     <Header />
+
     <ProfileBox>
       <Myprofile src={myprofile}></Myprofile>
       <NameTxt>Web Developer based in Seoul, Korea</NameTxt>
