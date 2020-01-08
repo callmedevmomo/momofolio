@@ -97,7 +97,7 @@ const AboutPresenter = ({ image, loading }) => (
       <NameTxt>Web Developer based in Seoul, Korea</NameTxt>
     </ProfileBox>
     <TxtConatiner>
-      <TxtBox>멋쟁이 개발자란? (a.k.a 닮고 싶다 너)</TxtBox>
+      <TxtBox>멋쟁이 개발자란 ? (a.k.a 닮고 싶다 너)</TxtBox>
       "개발자는 평생 공부해야 해." , "FE는 너무 빨리 변해서 기술 트렌드에
       민감해야 해." , "그래도 한 언어에 깊이가 있어야지, 그게 경쟁력이야." 요새
       많이 듣고 있는 말들이다. 사실 다 맞는 말. 개발자라는 직업에 대해 잘
