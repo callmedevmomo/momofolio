@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02c22a4689671759cc4c2774027be8ed",
+    "revision": "5bb4e38e0fc10cd0a5586a410efd42a8",
     "url": "/momofolio/index.html"
   },
   {
-    "revision": "e7ab87686c319d92baad",
-    "url": "/momofolio/static/js/2.ebc2ea0a.chunk.js"
+    "revision": "5395d182073584af3245",
+    "url": "/momofolio/static/js/2.02860ddb.chunk.js"
   },
   {
-    "revision": "1579a870cad5b62a535f",
-    "url": "/momofolio/static/js/main.bf550dab.chunk.js"
+    "revision": "93fc4ecadde4815875db",
+    "url": "/momofolio/static/js/main.7c7715bd.chunk.js"
   },
   {
-    "revision": "663baceb66f2e800e2e4",
-    "url": "/momofolio/static/js/runtime~main.b5e4d2db.js"
+    "revision": "3d8de2783b4e310635f0",
+    "url": "/momofolio/static/js/runtime~main.ca24f256.js"
   },
   {
     "revision": "351a3770057af37a6f0a5655fb9e9cd6",
