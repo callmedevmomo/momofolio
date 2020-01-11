@@ -240,14 +240,14 @@ const PortfolioPresenter = () => (
         <Link to="/portfolio/project5">
           <MyContainer />
           <PORTTXT src={Youtube}></PORTTXT>
-          <Introduction>CloneYoutube</Introduction>
+          <Introduction>momoTube</Introduction>
         </Link>
       </Testdiv>
       <Testdiv>
         <Link to="/portfolio/project6">
           <MyContainer />
           <PORTTXT src={Netflix}></PORTTXT>
-          <Introduction>CloneNetflix</Introduction>
+          <Introduction>momoFlix</Introduction>
         </Link>
       </Testdiv>
       <Testdiv>
