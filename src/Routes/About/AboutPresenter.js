@@ -81,45 +81,66 @@ const TxtConatiner = styled.div`
   line-height: 2.5;
   transform: translateX(-150px);
   animation: ${opacity} 8s ease;
+  font-size: 16px;
 `;
 
-const TxtBox = styled.div`
-  font-size: 24px;
+const EmjBox = styled.span`
+  font-size: 45px;
+  font-weight: bolder;
+  margin-right: 20px;
+`;
+const Emjtxt = styled.span`
+  font-size: 17px;
   font-weight: bolder;
 `;
 
 const AboutPresenter = ({ image, loading }) => (
   <Container>
     <Header />
-
     <ProfileBox>
       <Myprofile src={myprofile}></Myprofile>
       <NameTxt>Web Developer based in Seoul, Korea</NameTxt>
     </ProfileBox>
     <TxtConatiner>
-      <TxtBox>멋쟁이 개발자란?? (a.k.a 닮고 싶다 너)</TxtBox>
-      "개발자는 평생 공부해야 해." , "FE는 너무 빨리 변해서 기술 트렌드에
-      민감해야 해." , "그래도 한 언어에 깊이가 있어야지, 그게 경쟁력이야." 요새
-      많이 듣고 있는 말들이다. 사실 다 맞는 말. 개발자라는 직업에 대해 잘
-      모른다면 오히려 이와 같은 말들에 되려 피로감을 느낄 수도 있다. 평생 공부 ?
-      흥미가 없는 분야라면 듣기만 해도 싫을 터. 하지만 개발자는 기술과 함께
-      성장해야만 한다. 따라서 훌륭한 개발자는 반드시 열정과 흥미가 이 분야
-      깊숙이 있어야 하고, 성장하기 위해 겸손해야 한다고 생각한다. 유명 개발자
-      블로그나 강연을 살펴보면 기술 스택 외에도 멋진 소프트스킬을 보유한
-      롤모델들이 상당히 많다. 개발자 = 체크남방 + 청바지라는 불변의 법칙도
-      잊혀진지 오래.
+      <EmjBox>
+        <span role="img" aria-label="Emoji">
+          👨🏼‍💻
+        </span>
+      </EmjBox>
+      <Emjtxt>
+        웹과 JavaScript를 사랑하는 개발자입니다.<br></br>
+      </Emjtxt>
+      웹이라는 공간을 디자인합니다. 개발자 역시 하나의 창작자라 생각하며,
+      가치있는 무언가를 만들기 위해 <br></br>한 걸음씩 성장하고 있습니다.
+      <br></br>
+      <EmjBox>
+        <span role="img" aria-label="Emoji">
+          🙋🏼‍♂️
+        </span>
+      </EmjBox>
+      <Emjtxt>
+        호기심이 많고, 주변 사람들과 교류하는 것을 좋아합니다.<br></br>
+      </Emjtxt>
+      이웃간의 소모임이나 다양한 분야의 사람들과 어울리는 것을 좋아합니다.
+      대화를 즐기며, 서로를 존중하는 <br></br>건강한 관계를 지향합니다.<br></br>
+      <EmjBox>
+        <span role="img" aria-label="Emoji">
+          💁🏼‍♂️
+        </span>
+      </EmjBox>
+      <Emjtxt>
+        담백하고 자연스러운 사람이 되고자 합니다. <br></br>
+      </Emjtxt>
+      화려하기 보다 소소하고 자연스러운 일상을 즐기며, 다방면에서 깊고 단단한
+      사람이 되려 노력합니다.
       <br></br>
       <br></br>
-      <br></br>
-      <TxtBox>문과 ? 컴공과 ? 그게 뭐...(a.k.a 부러울 때는 있어요)</TxtBox>
-      가만 보면, 어릴 때부터 창작을 좋아했다. 미술시간에는 누가 보란 듯이 독특한
-      그림을 그렸고, 음악을 좋아했지만 노래를 부르기보단 작곡에 흥미가 있었다.
-      때문에 문과 출신이 문과스러운 대학교(?)를 다니며 개발자가 되어야겠다고
-      다짐했던 건 나에겐 크게 놀랄 일이 아니었다. (주변에서는 난리였다.)
-      프로그래밍은 익숙한 현대 사회에서 새로이 무언가를 만든다는 매력이 있다.
-      컴퓨터의 언어로 Product를 만들어 내는 과정들이 멋지고 재밌어 보였다.
-      그래서 도전하기 시작했다. 다양한 교육과정을 체험하며 어떤 분야의 개발자가
-      되고 싶은지를 결정했고, 현재 풀스택 웹 개발자를 지향한다.
+      <Emjtxt>
+        그 외 좋아하는 것들 <br></br>
+      </Emjtxt>
+      🧘🏼‍♂️ Yoga<br></br>
+      🍵 Tea<br></br>
+      🎹 Piano<br></br>
     </TxtConatiner>
   </Container>
 );

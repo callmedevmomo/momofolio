@@ -222,7 +222,7 @@ const ContactPresenter = () => (
             <WHWBoxTitle>@ Callmedevmomo</WHWBoxTitle>
             <WHWBox1>
               <ContentTitle>
-                <TxtDiv>GREAT DEVELOPERS ARE RAISED, NOT HIRED</TxtDiv>
+                <TxtDiv>Growing as a full stack web developer</TxtDiv>
                 <TxtDiv>
                   Email : <ContentTxt>callmedevmomo@gmail.com</ContentTxt>
                 </TxtDiv>

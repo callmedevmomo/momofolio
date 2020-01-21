@@ -422,9 +422,8 @@ const SkillPresenter = () => (
         <NodeCon>
           <Title>Node JS</Title>
           <BRBR>
-            가장 잘하고 싶고 욕심나는 기술입니다. Routing, Controller 등의
-            개념은 이해했고 Passport, Webpack, MongoDB 등을 사용한 경험이
-            있습니다.
+            풀스택 웹 개발자가 되기 위해서 잘하고 싶고 욕심나는 기술입니다.
+            프로젝트 백엔드에 사용하며, express Framework를 즐겨 사용합니다.
           </BRBR>
         </NodeCon>
       </NodeBox>
@@ -433,9 +432,8 @@ const SkillPresenter = () => (
         <GraphCon>
           <Title>GraphQL</Title>
           <BRBR>
-            현재 꾸준히 공부 중입니다. Prisma, Apollo와 함께 사용하고 있고
-            MongoDB에 비해 정말 유용하다고 생각합니다. 관리자 패널도 지원하고,
-            코드 사용이 매우 간결해지기 때문에 익숙해지려 노력할 것입니다.
+            현재 꾸준히 공부 중입니다. Prisma, Apollo와 함께 사용해왔습니다.
+            관리자 패널과 간결한 코드 때문에 익숙해지려 노력하고 있습니다.
           </BRBR>
         </GraphCon>
       </GraphBox>

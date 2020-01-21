@@ -93,7 +93,7 @@ const HomePresenter = () => (
       <HeaderContent>
         <Container>
           <TitleSpan>Dynamic Web Developer</TitleSpan>
-          <TitleSpan> Growing up as a full stack developer.</TitleSpan>
+          <TitleSpan> Growing as a full stack developer.</TitleSpan>
         </Container>
       </HeaderContent>
       <Fullscreen>
